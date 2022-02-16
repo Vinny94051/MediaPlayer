@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Music</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="you_denied_permission">Unfortunately, you denied the storage access permission!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="delete">delete</string>
+    <string name="music">MUSIC</string>
+    <string name="video">VIDEO</string>
+    <string name="radio">RADIO</string>
+</resources>
